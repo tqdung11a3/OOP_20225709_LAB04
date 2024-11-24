@@ -1,0 +1,7 @@
+1. Khi nào nên sử dung phương thức accessor ?
+- Khi cần bảo vệ tính toàn vẹn của dữ liệu.
+- Khi cần ẩn chi tiết triển khai, chỉ cung cấp một cách lấy giá trị nhất quán. 
+
+2. Nếu bạn tạo một phương thức xây dựng để xây dựng một đĩa DVD theo tiêu đề thì hãy tạo một phương thức xây dựng để xây dựng một DVD theo danh mục. JAVA có cho phép bạn làm điều này không? 
+- Câu trả lời : Có
+- Java cho phép tạo nhiều phương thức khởi tạo, miễn là các phương thức khởi tạo đó có các tham số khác nhau. 
